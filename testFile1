@@ -1,8 +1,12 @@
 first git file
 first git modification!
 second git modification!
+<<<<<<< HEAD
 
 work for featureA:
 a. featureA stuff
 b. more featureA stuff
 c. finally a little more stuff
+=======
+hotfix!
+>>>>>>> master
